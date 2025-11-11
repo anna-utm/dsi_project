@@ -1,0 +1,78 @@
+
+:root {
+    --primary-blue: #002A5C;
+    --accent-blue: #007FA3;
+    --text-gray: #333333;
+    --light-gray: #F2F4F7;
+    --white: #FFFFFF;
+}
+
+body {
+    font-family: Arial, sans-serif;  
+    background-color: var(--light-gray);
+    color: var(--charcoal);
+    margin: 40px;
+}
+
+h2 {
+    color: var(--accent-blue);
+}
+
+#chatbox {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid var(--primary-blue);
+    border-radius: 8px;
+    background-color: var(--white);    
+    }
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--accent-blue);
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: var(--accent-blue);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--primary-blue);
+}
+
+.message {
+    margin: 10px 0;
+}
+
+.user {
+    font-weight: bold;
+    color: var(--primary-blue);
+}
+
+.bot {
+    color: var(--accent-blue);
+}
+
+.spinner {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 3px solid #ccc;
+    border-top: 3px solid var(--primary-blue);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-left: 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

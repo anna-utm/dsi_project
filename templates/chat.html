@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UTM Parking Chatbot</title>
+    <link rel="stylesheet" href="/static/uoft_theme.css">
+</head>
+<body>
+    <div id="chatbox">
+        <h2>Ask about UTM Parking</h2>
+        <input type="text" id="question" placeholder="Type your question..." style="width: 100%;">
+        <button onclick="sendQuestion()">Ask</button>
+        <div id="conversation"></div>
+    </div>
+
+    <script>
+    function sendQuestion() {
+        const question = document.getElementById("question").value;
+        const convo = document.getElementById("conversation");
+
+        // Show user's question
+        convo.innerHTML += `<div class='message user'>You: ${question}</div>`;
+
+        // Show loading spinner
+        convo.innerHTML += `<div class='message bot' id='loading'>Bot is thinking... <span class='spinner'></span></div>`;
+
+        // Send question to backend
+        fetch("/ask", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ question })
+        })
+        .then(res => res.json())
+        .then(data => {
+            document.getElementById("loading").remove();
+            convo.innerHTML += `<div class='message bot'>Bot: ${data.answer}</div>`;
+            document.getElementById("question").value = "";
+        });
+    }
+</script>
+</body>
+</html>

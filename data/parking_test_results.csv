@@ -1,0 +1,49 @@
+question,answer,duration_seconds,fallback_detected
+What are the daily and hourly parking rates at UTM?,"The daily parking rates at UTM are as follows:
+
+- CCT: $1.50 per 30 minutes up to $10.50 max (ticket valid until 8:00am next day)
+- P1/P4/P5/P8: $1.25 per 30 minutes up to $6.50 max (ticket valid until 8:00am next day)
+- P9: $1.50 per 30 minutes up to $7.50 max (ticket valid until 8:00am next day)
+
+For hourly parking, the rate is $1.25 or $1.50 per 30 minutes depending on the parking lot.
+
+Please note that these rates are for the regular academic year and may differ during holidays or special events. For more information about holiday and special event parking rates, please contact the Parking Office at parking.utm@utoronto.ca or visit their website.",21.03,False
+Where can I find a map of all parking lots on campus?,"You can find a map of all parking lots on the University of Toronto Mississauga (UTM) campus by downloading the UTM Parking Lot Map from the official UTM website. Here's how to do it:
+1. Visit the following link: https://www.utm.utoronto.ca/parking/parking-campus/parking-map
+2. Click on the 'Download UTM PDF Parking Map Here' button to download the map.
+
+If you encounter any difficulties, try installing Adobe Reader from this link: https://get.adobe.com/reader/. This should enable you to open and view the parking map. If you have further questions about parking at UTM, feel free to ask!",27.44,False
+Are there any free parking options available at UTM?,"Yes, there are free parking options available at UTM. Parking for UTM students is free of charge at the Alumni House. Additionally, Barrier Free Parking spaces are provided for UTM community members and visitors with accessible needs without any additional cost. However, these free parking spots may have specific eligibility requirements or conditions, so it's recommended to check with the Parking Office at parking.utm@utoronto.ca for more information.",29.96,False
+What are the busiest times for parking on campus?,"The busiest times for parking on the University of Toronto Mississauga (UTM) campus are typically during regular class hours, which usually start around 8 am. If you're planning to visit UTM, it might be a good idea to arrive early or later in the day to avoid heavy traffic and parking demand. For more specific information regarding parking enforcement on campus, please visit: https://www.utm.utoronto.ca/parking/",19.13,True
+How do I apply for a student parking permit at UTM?,"To apply for a student parking permit at UTM, you can follow these steps:
+
+1. Visit the UTM Parking website (<https://www.utm.utoronto.ca/parking/parking-campus>)
+2. Navigate to the ""Parking Permits for UTM Students"" section.
+3. Look for the ""Student who do not live on campus General Permit Information 2025"" link, which will provide you with more details about the application process.
+4. If needed, contact the Parking Office at parking.utm@utoronto.ca for additional information or assistance.",28.97,False
+"What types of parking permits are available for staff, faculty, and contractors?","For staff, faculty, and contractors at UTM, there are several types of parking permits available. Here are some examples:
+
+1. Permit parking: This is a general permit that allows faculty and staff to park in any lot on campus.
+2. Contractor Parking Permit: This is a commercial permit valid for $129.04 per month, and it is only valid in P4 & P8 unless otherwise arranged.
+3. Evening & Weekend Parking Permits: These permits are valid in P4, P8, P9 (Mon–Thurs after 3:30 pm; all day Fri–Sun), and also in P1, P5, CCT Garage (after 5 pm weekdays; all day weekends). The rate is $22.01 per month.
+4. Daily Parking Rates (Monday to Friday: 6:00 am - 5 pm): These rates apply when a permit is not needed, and the cost varies based on the length of stay in specific lots. For example, CCT garage costs $3.25 per half hour up to $20.50 max (ticket valid until 8:00 am next day).
+
+You can find more information about parking permits here: https://www.utm.utoronto.ca/parking/parking-campus/parking-permits",54.17,False
+Can I register multiple vehicles under one parking permit?,"Yes, you can register multiple vehicles (including rideshare/rental vehicles) to your parking permit at the University of Toronto Mississauga. However, a permit is valid for one vehicle to be parked on campus at any given time. If more than one vehicle needs to be parked on campus at the same time, each additional vehicle requires its own paid parking and must be registered. You can do this by following the instructions provided on the official UTM Parking website.",20.74,False
+How do I cancel my parking permit and request a refund?,"To cancel your parking permit and request a refund, follow these steps:
+
+1. Visit the Parking Permit Portal (https://parkingportal.utm.utoronto.ca/).
+2. Navigate to Step 2.
+3. Select the ""Request Cancellation"" option located below the permit information.
+4. Choose the ""View"" option next to the permit you wish to cancel.
+5. Enter the date you would like your permit to be cancelled.
+6. Follow the new permit cancellation instructions provided on the portal.
+
+Please note that refunds are subject to UTM's cancellation schedule, which can be found on their website (https://www.utm.utoronto.ca/parking/parking-campus/cancellations-refunds). If you have any further questions or need assistance, please do not hesitate to contact the UTM Parking Services at 905-828-3765 or by email at parking@utm.utoronto.ca.",32.15,False
+Where are the barrier-free accessible parking spaces located on campus?,"The barrier-free accessible parking spaces on the UTM campus can be found at the following locations:
+1. MaGrath Valley Residence (Refer to the updated information)
+2. Near Alumni House for visitor barrier-free parking
+3. Please refer to this map indicating the location of barrier-free accessible parking spaces on campus: https://www.utm.utoronto.ca/sites/default/files/parking_map_10062020.pdf",23.91,False
+Can visitors with accessible needs use the AMP Park app to pay for parking?,"Yes, visitors with accessible needs can use the AMP Park app to pay for parking at UTM. However, they must provide a valid MTO Accessible Parking Permit (APP) and ensure it is clearly displayed in their vehicle.",18.12,False
+How does the AMP Park mobile app work for paying parking fees?,"The AMP Park mobile app works by allowing you to pay for hourly or daily parking at UTM either via debit (tap payment) or through the AMP Parking App. To use it on your mobile device, download and install the app from the Apple Store or Google Play, follow the instructions provided in the app to set up an account, find and select the parking lot where you want to park, choose the duration of time for which you need parking, and complete the payment process. You will receive an email receipt every time you purchase or extend your parking session.",24.16,False
+What is License Plate Recognition (LPR) and how does it affect parking enforcement?,"The License Plate Recognition (LPR) system is an advanced technology that uses a vehicle's license plate as a permit for parking on campus, replacing the need for paper permits or hangtags. This technology captures both the location of the vehicle and its license plate information. It plays a significant role in parking enforcement by allowing UTM to enforce current parking regulations effectively, including identifying and taking action against vehicles parked in violation of those regulations. Registering your vehicle's license plates online will serve as a 'virtual permit.'",23.5,False
